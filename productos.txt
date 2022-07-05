@@ -7,6 +7,13 @@
     "id": 1
   },
   {
+    "title": "SSD 512GB",
+    "price": 15000,
+    "stock": 10,
+    "thumbnail": "https://cdn.pixabay.com/photo/2014/04/09/08/16/data-storage-319844_1280.jpg",
+    "id": 2
+  },
+  {
     "title": "Microfono",
     "price": 2000,
     "stock": 10,
@@ -19,12 +26,5 @@
     "stock": 10,
     "thumbnail": "https://cdn.pixabay.com/photo/2020/04/26/15/42/videoanruf-5095868_1280.jpg",
     "id": 4
-  },
-  {
-    "title": "Caniche Toy Marron Muy Bello",
-    "price": 999999,
-    "stock": 1,
-    "thumbnail": "https://www.perfectdogbreeds.com/wp-content/uploads/2020/03/A-Red-Toy-Poodle.jpg",
-    "id": 5
   }
 ]
