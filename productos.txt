@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Impresora",
+    "price": 2000,
+    "stock": 10,
+    "thumbnail": "https://cdn.pixabay.com/photo/2013/07/13/12/19/printer-159612_1280.png",
+    "id": 1
+  },
+  {
+    "title": "Microfono",
+    "price": 2000,
+    "stock": 10,
+    "thumbnail": "https://cdn.pixabay.com/photo/2016/06/21/08/40/prairie-dog-1470659_1280.jpg",
+    "id": 3
+  },
+  {
+    "title": "Webcam 4K",
+    "price": 3000,
+    "stock": 10,
+    "thumbnail": "https://cdn.pixabay.com/photo/2020/04/26/15/42/videoanruf-5095868_1280.jpg",
+    "id": 4
+  },
+  {
+    "title": "Caniche Toy Marron Muy Bello",
+    "price": 999999,
+    "stock": 1,
+    "thumbnail": "https://www.perfectdogbreeds.com/wp-content/uploads/2020/03/A-Red-Toy-Poodle.jpg",
+    "id": 5
+  }
+]
