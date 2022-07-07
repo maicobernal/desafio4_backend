@@ -11,7 +11,11 @@ function borrar() {
         return response.json();
     })
     .then((data) =>{
-      console.log(data);
+      if(data.stat === "fail") {
+        throw new Error(data.message);
+      }
+        alert('Producto eliminado con éxito')
+        console.log(data.stat);
     })
     .catch((err) =>{
       console.log(err);
@@ -67,6 +71,7 @@ function borrar() {
         return response.json();
     })
     .then((data) =>{
+      alert('Producto modificado con éxito')
       console.log(data);
     });
   }
